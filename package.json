@@ -1,0 +1,19 @@
+{
+  "name": "code_bar_scanner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "backend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karimRedjimi/code_bar_scanner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karimRedjimi/code_bar_scanner/issues"
+  },
+  "homepage": "https://github.com/karimRedjimi/code_bar_scanner#readme"
+}
